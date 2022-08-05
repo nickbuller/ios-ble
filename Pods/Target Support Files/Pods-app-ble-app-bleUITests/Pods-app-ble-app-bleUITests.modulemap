@@ -1,0 +1,6 @@
+framework module Pods_app_ble_app_bleUITests {
+  umbrella header "Pods-app-ble-app-bleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

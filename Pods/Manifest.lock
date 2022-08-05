@@ -1,0 +1,16 @@
+PODS:
+  - DataDecoder (5.0.0)
+
+DEPENDENCIES:
+  - DataDecoder
+
+SPEC REPOS:
+  trunk:
+    - DataDecoder
+
+SPEC CHECKSUMS:
+  DataDecoder: 450bbf3a850ba113fc04f28de4f43c227e2f8b00
+
+PODFILE CHECKSUM: c97358a4aa7511c9bd4cd20893fb0ce1f6ab3f5f
+
+COCOAPODS: 1.11.3
